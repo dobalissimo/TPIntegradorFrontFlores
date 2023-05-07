@@ -116,8 +116,9 @@
       }
 
       #caption {
-        align-items: end;
-        text-align: end;
+        align-items: right;
+        text-align: right;
+        width: 400px;
       }
 
       
