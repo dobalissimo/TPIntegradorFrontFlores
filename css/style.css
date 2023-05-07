@@ -1,0 +1,118 @@
+.green {
+    color:green !important;
+    }
+
+    .carousel-caption { width:auto; color:#fff; text-align:right;}
+
+    .carousel .carousel-item {
+        height: 500px;
+      }
+      
+      .carousel-item img {
+          position: absolute;
+          object-fit: cover;
+          top: 0;
+          left: 0;
+          min-height: 500px;
+      }
+
+      .card-group {
+        width: 60%;
+        text-align: center;
+        align-items: center;    
+    }
+
+    .bg-primary {
+        color:white;
+    }
+
+    .bg-secondary {
+        color:white;
+    }
+
+    .bg-danger {
+        color:white;
+    }
+
+    .bg-dark {
+        color:white;
+    }
+
+         
+    div h2 {
+    
+        font-size: 0.6em;
+    }
+
+
+    .caja {
+        background-color: #1e516e;
+        height:96px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .button {
+        width: 100%;
+        background-color: #96c93e;
+        color:white;
+    }
+
+    .center {
+        justify-content: center;
+        align-items: center;
+    }
+
+    form {
+        margin: 0 auto;
+        width: 50%;
+    }
+
+    .oscurecer {
+     filter: brightness(60%);
+    }
+
+    .carousel-caption {
+        height: fit-content;
+      }
+
+      div form h4 {
+        font-size:0.8em;
+      }
+
+      #emailHelp {
+        font-size: 0.8em;
+        text-align:left;
+        color:grey
+      }
+
+      div form {
+        padding:10px;
+        margin-top: 10px;
+      }
+
+      main h2 {
+        font-size: 0.6em;
+      }
+      
+
+      #Hablar {
+        height:96px
+      }
+
+      div div div p {
+        font-size: 10px;
+      }
+
+      div div p {
+        font-size: 12px;
+      }
+
+      header div div div img {
+        object-fit: cover;
+        object-position: 30% 0;
+        height:auto;
+      }
+
+      
