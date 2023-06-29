@@ -59,6 +59,12 @@
         color:white;
     }
 
+    #buttonres {
+      width: 100%;
+      background-color: #96c93e;
+      color:white;
+  }
+
     .center {
         justify-content: center;
         align-items: center;
@@ -119,6 +125,10 @@
         align-items: right;
         text-align: right;
         width: 400px;
+      }
+
+      #totalAmount {
+        background-color: aqua;
       }
 
       
